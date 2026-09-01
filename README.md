@@ -16,11 +16,11 @@ Fornecer ao time de front-end uma base funcional e confiável para consumir dado
 
 1. Clone o repositório:
 
-git clone https://github.com/Thomaz7BR/Api-Usuarios.git
+git clone https://github.com/Thomaz7BR/api-connect-thomaz-lira
 
 2. Acesse a pasta do projeto:
 
-cd Api-Usuarios
+cd api-connect-thomaz-lira
 
 3. Instale as dependências:
 
@@ -80,7 +80,7 @@ Resposta (404 Not Found):
 
 ## Estrutura do projeto
 
-Api-Usuarios/
+api-connect-thomaz-lira/
 ├── server.js
 ├── controllers/
 │ └── userscontrol.js
