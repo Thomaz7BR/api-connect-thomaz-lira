@@ -1,4 +1,4 @@
-# API Usuários
+# api-connect-thomaz-lira
 
 API REST desenvolvida como MVP para uma plataforma de gerenciamento de usuários, permitindo operações de criação, listagem, busca, atualização e remoção de registros.
 
